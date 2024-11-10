@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Welcome to My Site
+title: Emma Sung Portfolio Website
 ---
 
-# Welcome to My Cayman-themed GitHub Page!
+# Welcome to My Data Analytics Portfolio Website!
 This site uses the Cayman theme and is hosted on GitHub Pages.
 
 You can add more content here by editing `index.md`.
