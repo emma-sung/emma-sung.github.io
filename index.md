@@ -26,14 +26,14 @@ Data Source: Springboard
 
 Tools: SQL, Tableau
 
-## Project 2: Lung Cancer Study
+## Project 2: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
 About: 
 
 In this project, I focused on analyzing and visualizing data to identify high-risk factors associated with lung cancer severity. My goal was to uncover meaningful patterns within patient demographics that could inform better understanding and support research on risk stratification.
 
 Using Tableau as my primary tool, I designed visualizations that highlighted correlations between variables like age, smoking history, and other demographic factors with risk. These visualizations allowed for quick insights into key demographic patterns and offered a user-friendly approach for stakeholders to explore data and identify trends.
 
-Data Source: https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link 
+[Data Source](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 
 Tools: Tableau
 
