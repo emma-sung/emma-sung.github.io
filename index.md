@@ -13,9 +13,10 @@ Prior to Boeing, I completed a Master’s project at Cornell’s Collective Embo
 
 With a toolkit that includes SQL, Python, Tableau, and MATLAB, I am passionate about converting raw data into actionable insights. My recent data analytics projects include an energy market case study, where I analyzed outage data and created Tableau visualizations to drive operational improvements, and a lung cancer case study, where I visualized patient data to highlight high-risk factors.
 
-Outside of work, I enjoy exploring cooking and baking.
+Outside of work, I enjoy exploring cooking, baking and traveling! :)
 
 ## Project 1: [AEMR Electrical Outage Case Study](https://public.tableau.com/app/profile/emma.sung/viz/SQLProject_17271275130480/Story1)
+
 About: 
 
 In this case study, I worked on analyzing energy market data for the American Energy Market Regulator (AEMR) using SQL and Tableau. The goal was to derive insights that could inform regulatory decisions and optimize market operations. Through SQL queries, I performed data transformations and aggregations to prepare the data for visualization.
@@ -39,6 +40,7 @@ Using Tableau as my primary tool, I designed visualizations that highlighted cor
 Tools: Tableau
 
 ## Project 3: 
+
 About:
 
 Data Source:
@@ -55,5 +57,5 @@ LinkedIn: https://www.linkedin.com/in/emmasung/
 
 
 
-
+## Github Pages Credits 
 This site uses the Cayman theme and is hosted on GitHub Pages.
