@@ -13,7 +13,7 @@ Prior to Boeing, I completed a Master’s project at Cornell’s Collective Embo
 
 With a toolkit that includes SQL, Python, Tableau, and MATLAB, I am passionate about converting raw data into actionable insights. My recent data analytics projects include an energy market case study, where I analyzed outage data and created Tableau visualizations to drive operational improvements, and a lung cancer case study, where I visualized patient data to highlight high-risk factors.
 
-Outside of work, I enjoy exploring new cuisines, experimenting with cooking techniques, and understanding the science behind flavor.
+Outside of work, I enjoy exploring cooking and baking.
 
 ## Project 1: [AEMR Electrical Outage Case Study](https://public.tableau.com/app/profile/emma.sung/viz/SQLProject_17271275130480/Story1)
 About: 
@@ -27,6 +27,7 @@ Data Source: Springboard
 Tools: SQL, Tableau
 
 ## Project 2: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
+
 About: 
 
 In this project, I focused on analyzing and visualizing data to identify high-risk factors associated with lung cancer severity. My goal was to uncover meaningful patterns within patient demographics that could inform better understanding and support research on risk stratification.
