@@ -15,19 +15,7 @@ With a toolkit that includes SQL, Python, Tableau, and MATLAB, I am passionate a
 
 Outside of work, I enjoy exploring cooking, baking and traveling! :)
 
-## Project 1: [AEMR Electrical Outage Case Study](https://public.tableau.com/app/profile/emma.sung/viz/SQLProject_17271275130480/Story1)
-
-About: 
-
-In this case study, I worked on analyzing energy market data for the American Energy Market Regulator (AEMR) using SQL and Tableau. The goal was to derive insights that could inform regulatory decisions and optimize market operations. Through SQL queries, I performed data transformations and aggregations to prepare the data for visualization.
-
-Using Tableau, I created dynamic dashboards and visualizations to communicate key trends and patterns in energy outages. These visualizations highlighted critical metrics such as frequency of outages, energy loss, and main contributors of outages, enabling stakeholders to make data-driven decisions. The project allowed me to apply advanced data manipulation and visualization techniques to support identification of pain points, ensuring transparency and efficiency in energy market operations.
-
-Data Source: Springboard
-
-Tools: SQL, Tableau
-
-## Project 2: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
+## Project 1: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
 
 About: 
 
@@ -35,21 +23,21 @@ In this project, I focused on analyzing and visualizing data to identify high-ri
 
 Using Tableau as my primary tool, I designed visualizations that highlighted correlations between variables like age, smoking history, and other demographic factors with risk. These visualizations allowed for quick insights into key demographic patterns and offered a user-friendly approach for stakeholders to explore data and identify trends.
 
-[Data Source](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
+Data Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 
 Tools: Tableau
 
-## Project 3: 
+## Project 2: Transaction Fraud Analysis (In Progress) 
 
 About:
 
-Data Source:
+Data Source: [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets) 
 
 Tools:
 
 
 ## Contact Information:
-email: emma.hs.sung@gmail.com
+email: <emma.hs.sung@gmail.com>
 
 phone: 949-244-9454 
 
