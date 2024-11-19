@@ -41,7 +41,7 @@ email: <emma.hs.sung@gmail.com>
 
 phone: 949-244-9454 
 
-LinkedIn: https://www.linkedin.com/in/emmasung/
+LinkedIn: <https://www.linkedin.com/in/emmasung/>
 
 
 
