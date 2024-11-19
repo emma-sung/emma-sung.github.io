@@ -15,7 +15,24 @@ With a toolkit that includes SQL, Python, Tableau, and MATLAB, I am passionate a
 
 Outside of work, I enjoy exploring cooking, baking and traveling! :)
 
-## Project 1: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
+## Project 1: Transaction Fraud Analysis (In Progress) 
+
+About: 
+
+This project explores a transactions dataset to uncover patterns and indicators of fraudulent activity. By analyzing various transaction attributes, I aim to identify key characteristics that distinguish legitimate transactions from fraudulent ones.
+
+Using data visualization and statistical techniques, I delve into trends, anomalies, and correlations within the dataset to develop insights that could enhance fraud detection strategies. This analysis could inform businesses on how to better safeguard against fraudulent activities and improve the security of financial transactions.
+
+This project demonstrates my skills in data analysis, feature engineering, and exploratory data visualization to solve real-world challenges.
+
+Data Source: [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets) 
+
+Tools: Python, Tableau
+
+Python Libraries: Matplotlib, Seaborn, Numpy
+
+
+## Project 2: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
 
 About: 
 
@@ -26,15 +43,6 @@ Using Tableau as my primary tool, I designed visualizations that highlighted cor
 Data Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 
 Tools: Tableau
-
-## Project 2: Transaction Fraud Analysis (In Progress) 
-
-About:
-
-Data Source: [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets) 
-
-Tools:
-
 
 ## Contact Information:
 email: <emma.hs.sung@gmail.com>
