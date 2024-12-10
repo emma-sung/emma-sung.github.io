@@ -37,21 +37,15 @@ Tools:
 ## Project 2: [AEMR Electrical Outage Case Study](https://public.tableau.com/app/profile/emma.sung/viz/SQLProject_17271275130480/Story1)
 About: 
 
-This project explores a transactions dataset to uncover patterns and indicators of fraudulent activity. By analyzing various transaction attributes, I aim to identify key characteristics that distinguish legitimate transactions from fraudulent ones.
+In this case study, I worked on analyzing energy market data for the American Energy Market Regulator (AEMR) using SQL and Tableau. The goal was to derive insights that could inform regulatory decisions and optimize market operations. Through SQL queries, I performed data transformations and aggregations to prepare the data for visualization.
 
-Using data visualization and statistical techniques, I delve into trends, anomalies, and correlations within the dataset to develop insights that could enhance fraud detection strategies. This analysis could inform businesses on how to better safeguard against fraudulent activities and improve the security of financial transactions.
+Using Tableau, I created dynamic dashboards and visualizations to communicate key trends and patterns in energy outages. These visualizations highlighted critical metrics such as frequency of outages, energy loss, and main contributors of outages, enabling stakeholders to make data-driven decisions. The project allowed me to apply advanced data manipulation and visualization techniques to support identification of pain points, ensuring transparency and efficiency in energy market operations.
 
-This project demonstrates my skills in data analysis, feature engineering, and exploratory data visualization to solve real-world challenges.
+Data Source: Springboard
 
-Data Source: [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets) 
-
-Tools: Python, Tableau
-
-Python Libraries: Matplotlib, Seaborn, Numpy
-
+Tools: SQL, Tableau
 
 ## Project 2: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
-
 About: 
 
 In this project, I focused on analyzing and visualizing data to identify high-risk factors associated with lung cancer severity. My goal was to uncover meaningful patterns within patient demographics that could inform better understanding and support research on risk stratification.
@@ -62,14 +56,15 @@ Data Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/cancer-patie
 
 Tools: Tableau
 
+
 ## Contact Information:
-email: <emma.hs.sung@gmail.com>
+email: emma.hs.sung@gmail.com
 
 phone: 949-244-9454 
 
-LinkedIn: <https://www.linkedin.com/in/emmasung/>
+LinkedIn: https://www.linkedin.com/in/emmasung/
 
 
 
-## Github Pages Credits 
+
 This site uses the Cayman theme and is hosted on GitHub Pages.
