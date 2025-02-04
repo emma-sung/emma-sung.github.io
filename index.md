@@ -38,23 +38,27 @@ Tools:
 - Tableau: For creating a visually engaging and interactive dashboard
 
 
-## Project 2: [AEMR Electrical Outage Case Study](https://public.tableau.com/app/profile/emma.sung/viz/SQLProject_17271275130480/Story1)
+## Project 2: AEMR Electrical Outage Case Study
 About: 
 
 In this case study, I worked on analyzing energy market data for the American Energy Market Regulator (AEMR) using SQL and Tableau. The goal was to derive insights that could inform regulatory decisions and optimize market operations. Through SQL queries, I performed data transformations and aggregations to prepare the data for visualization.
 
 Using Tableau, I created dynamic dashboards and visualizations to communicate key trends and patterns in energy outages. These visualizations highlighted critical metrics such as frequency of outages, energy loss, and main contributors of outages, enabling stakeholders to make data-driven decisions. The project allowed me to apply advanced data manipulation and visualization techniques to support identification of pain points, ensuring transparency and efficiency in energy market operations.
 
+Tableau Presentation: [Link](https://public.tableau.com/app/profile/emma.sung/viz/SQLProject_17271275130480/Story1) 
+
 Data Source: Springboard
 
 Tools: SQL, Tableau
 
-## Project 2: [Lung Cancer Study](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
+## Project 2: Lung Cancer Study
 About: 
 
 In this project, I focused on analyzing and visualizing data to identify high-risk factors associated with lung cancer severity. My goal was to uncover meaningful patterns within patient demographics that could inform better understanding and support research on risk stratification.
 
 Using Tableau as my primary tool, I designed visualizations that highlighted correlations between variables like age, smoking history, and other demographic factors with risk. These visualizations allowed for quick insights into key demographic patterns and offered a user-friendly approach for stakeholders to explore data and identify trends.
+
+Tableau Presentation: [Link](https://public.tableau.com/app/profile/emma.sung/viz/capstone_1_17236881162380/LungCancerDataAnalysis)
 
 Data Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
 
