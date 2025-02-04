@@ -17,13 +17,17 @@ My toolkit includes SQL, Python, Tableau, and MATLAB. I am passionate about conv
 
 Outside of work, I enjoy exploring new cuisines, cooking, and occasionally tennis! :)
 
-## Project 1: [Fraudulent Card Transactions](Financial%20Transactions.ipynb)
+## Project 1: Fraudulent Card Transactions
 
 About:
 
 I am currently working on an exciting capstone project focused on analyzing fraudulent transaction behavior using Python's scikit-learn and advanced modeling tools.
 
 The project is actively evolving, and you can explore the progress in my Jupyter Notebook. Once the analysis is complete, I will create a comprehensive presentation in Tableau to showcase the findings.
+
+Jupyter Notebook: [Financial Transactions](Financial%20Transactions_F.ipynb)
+
+Tableau Presentation: [Link](https://public.tableau.com/app/profile/emma.sung/viz/Presentation_17345653709830/Story1)
 
 Data Source: [Kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data)
 
