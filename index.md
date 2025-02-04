@@ -21,9 +21,20 @@ Outside of work, I enjoy exploring new cuisines, cooking, and occasionally tenni
 
 About:
 
-I am currently working on an exciting capstone project focused on analyzing fraudulent transaction behavior using Python's scikit-learn and advanced modeling tools.
+This project focuses on building and evaluating machine learning models to detect fraudulent financial transactions. By leveraging real-world transaction data, I developed and optimized classification models to identify fraudulent activities based on transaction features.
 
-The project is actively evolving, and you can explore the progress in my Jupyter Notebook. Once the analysis is complete, I will create a comprehensive presentation in Tableau to showcase the findings.
+Approach:
+
+- **Data Preprocessing:** Cleaned and prepared transaction data for modeling.  
+- **Feature Engineering:** Extracted meaningful insights from transaction attributes.  
+- **Model Training & Evaluation:** Implemented Decision Tree, Random Forest, and Logistic Regression models to classify fraudulent transactions.  
+- **Performance Metrics:** Analyzed **precision, recall, and F1-score** to measure model effectiveness, with a focus on minimizing false negatives.  
+- **Fraud Analysis:** Examined fraudulent transaction amounts detected by each model.  
+
+Key Insights:
+- The models were compared based on their ability to **correctly detect fraudulent transactions** while reducing false positives.  
+- A bar plot visualization was created to illustrate model performance across different metrics.  
+- The total fraudulent amount detected was analyzed to understand the effectiveness of each model.  
 
 Jupyter Notebook: [Financial Transactions](Financial%20Transactions_F.ipynb)
 
