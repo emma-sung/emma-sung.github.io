@@ -36,7 +36,7 @@ Key Insights:
 - A bar plot visualization was created to illustrate model performance across different metrics.  
 - The total fraudulent amount detected was analyzed to understand the effectiveness of each model.  
 
-Jupyter Notebook: [Financial Transactions](Financial%20Transactions_F.ipynb)
+Jupyter Notebook: [Financial Transactions](https://github.com/emma-sung/emma-sung.github.io/blob/main/Financial%20Transactions_F.ipynb)
 
 Tableau Presentation: [Link](https://public.tableau.com/app/profile/emma.sung/viz/Presentation_17345653709830/Story1)
 
