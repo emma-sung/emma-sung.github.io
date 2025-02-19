@@ -62,7 +62,7 @@ Data Source: Springboard
 
 Tools: SQL, Tableau
 
-## Project 2: Lung Cancer Study
+## Project 3: Lung Cancer Study
 About: 
 
 In this project, I focused on analyzing and visualizing data to identify high-risk factors associated with lung cancer severity. My goal was to uncover meaningful patterns within patient demographics that could inform better understanding and support research on risk stratification.
