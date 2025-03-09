@@ -7,13 +7,11 @@ title: Emma's Data Analytics Portfolio
 
 ## About Me
 
-Hello! My name is Emma.I am an engineer transitioning into data analytics with a strong foundation in mechanical engineering and hands-on experience in both corporate and research settings. 
-
-Currently, I work as an engineer at The Boeing Company in Everett, WA, where I extract, clean, and analyze large datasets to develop key performance indicators, manage compliance, and enhance system reliability for a fleet of over 1,000 aircraft. My role at Boeing has sharpened my expertise in data analytics, business intelligence, and risk analysis—all essential to maintaining safety and efficiency on a massive scale.
+Hello! My name is Emma. Currently, I work as a data analyst at The Boeing Company in Everett, WA, where I extract, clean, and analyze large datasets to develop key performance indicators, manage compliance, and enhance system reliability for a fleet of over 1,000 aircraft. My role at Boeing has sharpened my expertise in data analytics, business intelligence, and risk analysis—all essential to maintaining safety and efficiency on a massive scale.
 
 Prior to Boeing, I completed a Master’s project at Cornell’s Collective Embodied Intelligence Lab, where I led cost analysis and collaborated with cross-functional teams to integrate sensor systems into a collapsible rover. I also gained experience in acoustic sensor analysis and control systems during my engineering internship at BlueVortex, LLC.
 
-My toolkit includes SQL, Python, Tableau, and MATLAB. I am passionate about converting raw data into actionable insights. My recent data analytics projects include an energy market case study, where I analyzed outage data and created Tableau visualizations to drive operational improvements, and a lung cancer case study, where I visualized patient data to highlight high-risk factors.
+My toolkit includes SQL, Python, Tableau, Excel, and MATLAB. I am passionate about converting raw data into actionable insights. My recent data analytics projects include a fraud financial transaction analysis, where I identified patterns and anomalies in transaction data to detect potential fraudulent activities; an energy market case study, where I analyzed outage data and created Tableau visualizations to drive operational improvements; and a lung cancer case study, where I visualized patient data to highlight high-risk factors.
 
 Outside of work, I enjoy exploring new cuisines, cooking, and occasionally tennis! :)
 
